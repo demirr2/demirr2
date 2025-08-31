@@ -36,7 +36,7 @@
 
 ### 📫 Bana Ulaş:
 - 💬 Discord: `yemebozuklugu`
-- ✉️ Gmail: `demirirondemir33@gmail.com`
+- ✉️ Gmail: `ya kod atmayın orospu cocukları`
 
 ---
 
