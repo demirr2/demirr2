@@ -6,6 +6,7 @@
 
 ### 🚀 Bildiklerim:
 - 💡 **C#** (Nesne tabanlı programlama bilgisine sahibim)
+- c++ bide kardeşim
 - 🌐 **HTML** (Statik sayfalar oluşturabiliyorum)
 - 🧠 Temel algoritma ve mantık yapıları
 
