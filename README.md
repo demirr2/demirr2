@@ -1,4 +1,4 @@
-<h1 align="center">👋 Merhaba! Ben Demir</h1>
+<h1 align="center">👋 Merhaba! Ben Demir guzel gozuksun dıye chatgptye yaptırdım yargılayanınbacısınısikerim</h1>
 
 💻 C# ve HTML üzerine çalışıyorum. Hedefim; iyi tasarlanmış yazılımlar, web projeleri ve zamanla daha büyük sistemler geliştirmek.
 
